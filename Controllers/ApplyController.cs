@@ -40,7 +40,7 @@ namespace CreditCards.Controllers
             };
             
 
-            // There is no front-end validation required on the frequent flyer number.
+            // There is no front-end validation required on the frequent flyer number
             // If it is invalid the decision will be referred to a human.
             // This is so we don't miss out on potential sales due to people thinking 
             // there frequent flyer number should be valid when it is not.
